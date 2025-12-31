@@ -1,0 +1,14 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Base de datos
+*.db
+
+# Logs
+*.log
+
+# Entornos virtuales
+venv/
+env/
+.env
