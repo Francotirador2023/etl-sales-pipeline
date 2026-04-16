@@ -1,0 +1,30 @@
+2025-12-30 23:35:34,994 - INFO - ETL Started
+2025-12-30 23:35:35,025 - INFO - Data extracted successfully. Rows: 1051
+2025-12-30 23:35:35,085 - INFO - Removed 51 duplicates
+2025-12-30 23:35:35,130 - INFO - Transformation completed successfully
+2025-12-30 23:35:35,221 - INFO - Data loaded to SQLite: data/sales.db
+2025-12-30 23:54:25,111 - INFO - ETL Started
+2025-12-30 23:54:25,142 - INFO - Data extracted successfully. Rows: 1051
+2025-12-30 23:54:25,144 - INFO - Removed 51 duplicates
+2025-12-30 23:54:25,153 - INFO - Transformation completed successfully
+2025-12-30 23:54:25,225 - INFO - Data loaded to SQLite: data/sales.db
+2025-12-31 05:11:19,078 - INFO - ETL Started
+2025-12-31 05:11:19,093 - INFO - Data extracted successfully. Rows: 1057
+2025-12-31 05:11:19,097 - INFO - Removed 57 duplicates
+2025-12-31 05:11:19,112 - INFO - Transformation completed successfully
+2025-12-31 05:11:19,304 - INFO - Data loaded to SQLite: data/sales.db
+2025-12-31 01:31:46,291 - INFO - ETL Started
+2025-12-31 01:31:46,319 - INFO - Data extracted successfully. Rows: 1062
+2025-12-31 01:31:46,332 - INFO - Removed 62 duplicates
+2025-12-31 01:31:46,343 - INFO - Transformation completed successfully
+2025-12-31 01:31:46,383 - INFO - Data loaded to SQLite: data/sales.db
+2025-12-31 16:08:36,630 - INFO - ETL Started
+2025-12-31 16:08:36,642 - INFO - Data extracted successfully. Rows: 1062
+2025-12-31 16:08:36,657 - INFO - Removed 62 duplicates
+2025-12-31 16:08:36,669 - INFO - Transformation completed successfully
+2025-12-31 16:08:36,709 - INFO - Data loaded to SQLite: data/sales.db
+2026-04-15 22:33:24,256 - INFO - ETL Started
+2026-04-15 22:33:24,277 - INFO - Data extracted successfully. Rows: 1048
+2026-04-15 22:33:24,302 - INFO - Removed 48 duplicates
+2026-04-15 22:33:24,321 - INFO - Transformation completed successfully
+2026-04-15 22:33:24,378 - INFO - Data loaded to SQLite: data/sales.db
